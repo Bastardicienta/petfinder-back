@@ -1,0 +1,39 @@
+{
+    "mascotas": [
+      {
+        "name": "Firulais",
+        "slug": "firulais",
+        "tipo": "Perro",
+        "raza": "Pitbull americano",
+        "sexo": "Masculino",
+        "fechaPerdida": "10/11/2020",
+        "description":
+          "Es color blanco, manchas negras, ojos negros, las orejas blancas con negro",
+        "image": "/images/pitbull-americano-blancoPardo.jfif",
+        "ubicacion": "Barrio Manga calle 23 # 30"
+      },
+      {
+        "name": "Sandy",
+        "slug": "sandy",
+        "tipo": "Gato",
+        "raza": "Angora",
+        "sexo": "Femenino",
+        "fechaPerdida": "25/01/2021",
+        "description":
+          "Gata color blanco, con un ojo color amarillo y otro color azul",
+        "image": "/images/gato-angora-turco.jpg",
+        "ubicacion": "Barrio Crespo calle 02 diagonal 32 #12"
+      },
+      {
+        "name": "Sombra",
+        "slug": "sombra",
+        "tipo": "Gato",
+        "raza": "Persa",
+        "sexo": "Masculino",
+        "fechaPerdida": "02/09/2020",
+        "description": "Gata color gris, ojos color amarillo, de expresion ruda",
+        "image": "/images/gato-persa-gris.jpg",
+        "ubicacion": "Barrio La Maria, calle 1 # 40"
+      }
+    ]
+}
